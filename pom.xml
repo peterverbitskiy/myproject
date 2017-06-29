@@ -20,5 +20,6 @@
   </build>
   <modules>
   	<module>myproject-web</module>
+  	<module>myproject-main</module>
   </modules>
 </project>
